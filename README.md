@@ -28,4 +28,16 @@ The files of the project are in the files folder.
 
 - download: This is the folder where the files are downloaded. The cron.py file deletes the files that are older than 1 hour in this folder.
 
+## Usage ⚠️
+
+Before using the project you must be sure that Youtube company allows you to download the video or audio from Youtube
+
+As described in the terms of use as of December 21, 2023:
+
+You are not authorized to:
+
+- access, reproduce, download, distribute, transmit, broadcast, display, sell, license, alter, modify, or otherwise use any or all of the Service or Content except: (a) as explicitly permitted by the Service; (b) with prior written consent from YouTube and, if applicable, the rights holders; or (c) in accordance with applicable law.
+
+You can check it in the [Youtube Terms of Service](https://www.youtube.com/t/terms).
+
 
