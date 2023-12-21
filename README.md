@@ -1,6 +1,6 @@
 # YouTube-Downloader
 
-Caution: see the [Usage](#usage) section before using the project.
+⚠️ See the [Usage](#usage) section before using the project.
 
 ## Description
 
