@@ -1,5 +1,7 @@
 # YouTube-Downloader
 
+Caution: see the [Usage](#usage) section before using the project.
+
 ## Description
 
 This is a simple YouTube downloader that allows you to download videos and audio from YouTube.
