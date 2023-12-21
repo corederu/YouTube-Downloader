@@ -14,7 +14,7 @@ def download(url, fileName, audio=True):
         yt = YouTube(url)
         streams = None
         if audio:
-            streams = yt.streams.filter(file_extension='mp4').order_by('abr').desc()
+            streams = yt.streams.filter(file_extension='mp4', only_audio=True).order_by('abr').desc()
         else:
             streams = yt.streams.filter(file_extension='mp4', audio_codec = 'mp4a.40.2').order_by('resolution').desc()
 
